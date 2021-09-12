@@ -1,0 +1,19 @@
+h1{
+    color: crimson;
+}
+.special-effect:hover{
+    color: darkviolet;
+    font-size: 40px;
+    background-color: deeppink;
+}
+input:focus{
+    font-weight: 700;
+    font-size: 15px;
+    color: lawngreen;
+}
+li:first-child{
+    background-color: mediumblue;
+}
+li:last-child{
+    background-color: red;
+}
