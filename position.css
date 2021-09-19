@@ -1,0 +1,22 @@
+.container{
+    background-color: aqua;
+}
+div{
+    height: 100px;
+    width: 100px;
+    
+}
+#first{
+    background-color: deeppink;
+}
+#second{
+    background-color: darkblue;
+    position:relative;
+    left: 20px;
+    
+
+}
+
+#third{
+    background-color: darkorange;
+}
